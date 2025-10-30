@@ -43,7 +43,7 @@ SCHEDULE_TIME = "09:00"  # 9 AM BST
 TIMEZONE = "Europe/London"
 
 # Telegram Configuration
-TELEGRAM_API_ID = int(os.getenv("TELEGRAM_API_ID", "20369351"))
-TELEGRAM_API_HASH = os.getenv("TELEGRAM_API_HASH", "e93ba614d87f2a1ef5ba4caa8b5fc908")
-TELEGRAM_PHONE = os.getenv("TELEGRAM_PHONE", "+919540797834")
+TELEGRAM_API_ID = int(os.getenv("TELEGRAM_API_ID", ""))
+TELEGRAM_API_HASH = os.getenv("TELEGRAM_API_HASH", "")
+TELEGRAM_PHONE = os.getenv("TELEGRAM_PHONE", "")
 
