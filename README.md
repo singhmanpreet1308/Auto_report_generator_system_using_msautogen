@@ -8,6 +8,10 @@ The **Auto Report Generator** uses a multi-agent workflow powered by **Microsoft
 
 ## How to run?
 
+### STEPS:
+
+Clone the repository
+
 ```
 https://github.com/singhmanpreet1308/Auto_report_generator_system_using_msautogen.git
 ```
