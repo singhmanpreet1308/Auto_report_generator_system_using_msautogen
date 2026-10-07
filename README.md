@@ -202,7 +202,7 @@ The reporting workflow can be triggered automatically using a scheduler.
                 
 This reduces the need for someone to manually initiate the same reporting process every time.
 
-🔄 Multi-Agent Workflow
+## 🔄 Multi-Agent Workflow
 
 The project uses Microsoft AutoGen to coordinate communication between specialised agents.
         
@@ -229,7 +229,7 @@ The project uses Microsoft AutoGen to coordinate communication between specialis
                ▼
         Automated Delivery
 
-📊 Expected Report Output
+## 📊 Expected Report Output
 
 The final output is designed to transform business information into a report that is easier for decision-makers to consume.
 
@@ -253,7 +253,7 @@ AUTO-GENERATED BUSINESS REPORT
 
 The goal is not simply to reproduce raw data, but to convert available information into structured and actionable business insights.
 
-💼 Business Value
+## 💼 Business Value
 
 The project demonstrates how Agentic AI and Generative AI can support a real business reporting workflow.
 
@@ -289,7 +289,7 @@ Scheduled Delivery
 
 The analyst can spend more time reviewing important findings and supporting business decisions rather than repeatedly preparing reports.
 
-✅ Problems Addressed
+## ✅ Problems Addressed
 
 The solution is designed to help address:
 
@@ -307,7 +307,7 @@ Manual report distribution
 
 Difficulty extracting relevant information from larger business datasets
 
-🎯 Project Outcomes
+## 🎯 Project Outcomes
 
 The completed solution demonstrates the ability to:
 
@@ -327,41 +327,21 @@ Schedule recurring report generation
 
 Support automated report distribution
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-Technology
-
-Purpose
-
-Python
-
-Core application development
-
-Microsoft AutoGen
-
-Multi-agent orchestration
-
-Large Language Model (LLM)
-
-Analysis and natural-language generation
-
-RAG
-
-Context-aware information retrieval
-
-Vector Database
-
-Semantic storage and retrieval
-
-Embeddings
-
-Convert business information into searchable vectors
-
-Python Scheduler
-
-Automated report execution
-
-
+    Python
+    
+    Microsoft AutoGen
+    
+    Large Language Model (LLM)
+    
+    RAG
+    
+    Vector Database
+    
+    Embeddings
+    
+    Python Scheduler
 
 
 ## How to run the project?
@@ -400,7 +380,7 @@ pip install -r requirements.txt
 python scheduler.py now
 ```
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 The architecture can be extended further by introducing:
 
@@ -426,7 +406,7 @@ Cloud deployment
 
 Enterprise authentication and access control
 
-📌 Key Takeaway
+## 📌 Key Takeaway
 
 The Auto Report Generator demonstrates how Agentic AI, RAG, LLMs, and workflow automation can be combined to transform a repetitive reporting process into an intelligent reporting pipeline.
 
